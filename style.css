@@ -61,6 +61,10 @@ li {
 
 }
 
+.header-content img {
+    width: 503px;
+}
+
 .left-content {
     display: flex;
     align-items: flex-start;
@@ -110,7 +114,7 @@ button {
 
 }
 
-img {}
+
 
 /* Container Upper-Content */
 .container h2 {
